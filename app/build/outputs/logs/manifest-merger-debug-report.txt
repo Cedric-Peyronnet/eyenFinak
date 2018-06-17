@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\d8262c50718934249504256fa6ef68fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bf01541c15dfdea18363a0762d177e39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6614b7feaf6edaa97e50c76a12296f77\AndroidManifest.xml:2:1-11:12
+MERGED from [com.parse:parse-android:1.17.3] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\parse-android-1.17.3.aar\44b0920a0b9a6f35ca72d1fdc0c60f3e\AndroidManifest.xml:10:1-24:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\cebb5d535d0a46b5ea862b81dce53c0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6567a240db89d75a5a33a0951252a8c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b3a1433abc7ed80ede3edd79e1ca257a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\65ec81da5ab6f2d75320853de8bd77c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f12a4e213c493914856c0112b6108635\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bdd376e9679c8088a268f67dc62a8c0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\55e7b215e3ff0eafed4dabaa36c6175f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\724ae26352fd6e66163b17b31d8924bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2d1a7ffb4a5ece9d543e6b4d6082fe0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0d61dc04b637d7d0aefa65039b8ca581\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d1714a974e23f7bb7665a20603c81bc3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\948f9ba8c6e76bd565cc5eb864ab3935\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8e261c50d0420e3083b5aacb82fe83f7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8253f5657d9a998467ec4838362b2a64\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:10:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6614b7feaf6edaa97e50c76a12296f77\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6614b7feaf6edaa97e50c76a12296f77\AndroidManifest.xml:9:5-20
+MERGED from [com.parse:parse-android:1.17.3] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\parse-android-1.17.3.aar\44b0920a0b9a6f35ca72d1fdc0c60f3e\AndroidManifest.xml:22:5-20
+MERGED from [com.parse:parse-android:1.17.3] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\parse-android-1.17.3.aar\44b0920a0b9a6f35ca72d1fdc0c60f3e\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.maxi.eyen.login
+ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:17:19-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:21:27-74
+receiver#com.parse.ParsePushBroadcastReceiver
+ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:exported
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:26:13-64
+intent-filter#action:name:com.parse.push.intent.DELETE+action:name:com.parse.push.intent.OPEN+action:name:com.parse.push.intent.RECEIVE
+ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:28:13-32:29
+action#com.parse.push.intent.RECEIVE
+ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:29:17-72
+	android:name
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:29:25-69
+action#com.parse.push.intent.DELETE
+ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:30:17-71
+	android:name
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:30:25-68
+action#com.parse.push.intent.OPEN
+ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:31:25-66
+activity#com.example.maxi.eyen.register
+ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:35:9-46
+	android:name
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:35:19-43
+activity#com.example.maxi.eyen.evenement
+ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:36:9-47
+	android:name
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml:36:19-44
+uses-sdk
+INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\d8262c50718934249504256fa6ef68fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\d8262c50718934249504256fa6ef68fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bf01541c15dfdea18363a0762d177e39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bf01541c15dfdea18363a0762d177e39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6614b7feaf6edaa97e50c76a12296f77\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6614b7feaf6edaa97e50c76a12296f77\AndroidManifest.xml:5:5-7:41
+MERGED from [com.parse:parse-android:1.17.3] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\parse-android-1.17.3.aar\44b0920a0b9a6f35ca72d1fdc0c60f3e\AndroidManifest.xml:15:5-17:41
+MERGED from [com.parse:parse-android:1.17.3] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\parse-android-1.17.3.aar\44b0920a0b9a6f35ca72d1fdc0c60f3e\AndroidManifest.xml:15:5-17:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\cebb5d535d0a46b5ea862b81dce53c0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\cebb5d535d0a46b5ea862b81dce53c0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6567a240db89d75a5a33a0951252a8c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6567a240db89d75a5a33a0951252a8c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b3a1433abc7ed80ede3edd79e1ca257a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b3a1433abc7ed80ede3edd79e1ca257a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\65ec81da5ab6f2d75320853de8bd77c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\65ec81da5ab6f2d75320853de8bd77c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f12a4e213c493914856c0112b6108635\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f12a4e213c493914856c0112b6108635\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bdd376e9679c8088a268f67dc62a8c0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bdd376e9679c8088a268f67dc62a8c0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\55e7b215e3ff0eafed4dabaa36c6175f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\55e7b215e3ff0eafed4dabaa36c6175f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\724ae26352fd6e66163b17b31d8924bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\724ae26352fd6e66163b17b31d8924bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2d1a7ffb4a5ece9d543e6b4d6082fe0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2d1a7ffb4a5ece9d543e6b4d6082fe0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0d61dc04b637d7d0aefa65039b8ca581\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0d61dc04b637d7d0aefa65039b8ca581\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d1714a974e23f7bb7665a20603c81bc3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d1714a974e23f7bb7665a20603c81bc3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\948f9ba8c6e76bd565cc5eb864ab3935\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\948f9ba8c6e76bd565cc5eb864ab3935\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8e261c50d0420e3083b5aacb82fe83f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8e261c50d0420e3083b5aacb82fe83f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8253f5657d9a998467ec4838362b2a64\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8253f5657d9a998467ec4838362b2a64\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maxi\AndroidStudioProjects\eyen\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.parse:parse-android:1.17.3] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\parse-android-1.17.3.aar\44b0920a0b9a6f35ca72d1fdc0c60f3e\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from [com.parse:parse-android:1.17.3] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\parse-android-1.17.3.aar\44b0920a0b9a6f35ca72d1fdc0c60f3e\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.parse:parse-android:1.17.3] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\parse-android-1.17.3.aar\44b0920a0b9a6f35ca72d1fdc0c60f3e\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.parse:parse-android:1.17.3] C:\Users\Maxi\.gradle\caches\transforms-1\files-1.1\parse-android-1.17.3.aar\44b0920a0b9a6f35ca72d1fdc0c60f3e\AndroidManifest.xml:20:22-76
